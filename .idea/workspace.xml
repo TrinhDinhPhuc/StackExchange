@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af148c1e-268c-49e7-aad2-fff48bfed10a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aiXJVa6TRRrjpnnpyKP3ZkImMX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="StackExchange" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="StackExchange-build" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="StackExchange-build" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SparkLearning" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="stackexchange [file:/home/harry/OneDrive/SSU%20-%20Study/SSU%20-%20Big%20Data/StackExchange/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="SparkLearning-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="494527934" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2620759781" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af148c1e-268c-49e7-aad2-fff48bfed10a" name="Default Changelist" comment="" />
+      <created>1587219316533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587219316533</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2988" y="197" width="800" height="677" key="#Project_Structure" timestamp="1587219756069">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2988" y="197" width="800" height="677" key="#Project_Structure/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1587219756069" />
+    <state x="3126" y="294" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587220379828">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3126" y="294" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1587220379828" />
+    <state x="2587" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587220442899">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2587" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1587220442899" />
+    <state x="3040" y="177" width="697" height="717" key="#main" timestamp="1587220427503">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3040" y="177" width="697" height="717" key="#main/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1587220427503" />
+    <state x="3056" y="125" width="684" height="820" key="DiffContextDialog" timestamp="1587224905074">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3056" y="125" width="684" height="820" key="DiffContextDialog/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1587224905074" />
+    <state width="914" height="298" key="GridCell.Tab.0.bottom" timestamp="1589266720451">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="298" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1589266720451" />
+    <state width="914" height="298" key="GridCell.Tab.0.center" timestamp="1589266720451">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="298" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1589266720451" />
+    <state width="914" height="298" key="GridCell.Tab.0.left" timestamp="1589266720451">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="298" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1589266720451" />
+    <state width="914" height="298" key="GridCell.Tab.0.right" timestamp="1589266720451">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="298" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1589266720451" />
+    <state width="826" height="330" key="GridCell.Tab.1.bottom" timestamp="1588327088623">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="826" height="330" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1588327088623" />
+    <state width="826" height="330" key="GridCell.Tab.1.center" timestamp="1588327088623">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="826" height="330" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1588327088623" />
+    <state width="826" height="330" key="GridCell.Tab.1.left" timestamp="1588327088623">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="826" height="330" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1588327088623" />
+    <state width="826" height="330" key="GridCell.Tab.1.right" timestamp="1588327088623">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="826" height="330" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1588327088623" />
+    <state x="2964" y="132" width="866" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588236443288">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2964" y="132" width="866" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1588236443288" />
+    <state x="3063" y="244" key="run.anything.popup" timestamp="1588162985103">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3063" y="244" key="run.anything.popup/1920.0.1920.1080/0.27.1920.1018@1920.0.1920.1080" timestamp="1588162985103" />
+  </component>
+</project>
